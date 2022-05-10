@@ -7,8 +7,9 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="app_name">week2</string>
-    <style name="Theme.Week2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <string name="app_name">New project file</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Theme.NewProjectFile" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
